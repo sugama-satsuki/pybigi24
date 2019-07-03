@@ -32,6 +32,17 @@ tensorflowの使い方と小さなニューラルネットワークを実装す�
 
 tensorflowのチュートリアル
 https://www.tensorflow.org/tutorials
+
 [初めてのTensorFlow - イントロダクションとしての線形回帰](https://qiita.com/TomokIshii/items/f355d8e87d23ee8e0c7a)
 [TensorFlowのチュートリアルを通して、人工知能の原理について学習する](https://qiita.com/jintaka1989/items/3b70b5c5541620536fa2)
+
+・これGradientDescentOptimizerの説明がある（英語）
+[tf.train.GradientDescentOptimizer](https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer)
+
+・これGradientDescentOptimizerの説明がある（英語）
+[tf.train.GradientDescentOptimizer](https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer)
+
+・データの前処理加工でやってた処理!
+[Sklearnのpreprocessingの全メソッドを解説](https://own-search-and-study.xyz/2016/11/23/sklearn%E3%81%AEpreprocessing%E3%81%AE%E5%85%A8%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E3%82%92%E8%A7%A3%E8%AA%AC/)
+
 
