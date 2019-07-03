@@ -26,3 +26,12 @@ tensorflowの使い方と小さなニューラルネットワークを実装す�
 [全結合層（Affine）の仕組を、数式なしでざっくり整理してみた／ディープラーニング](https://arakan-pgm-ai.hatenablog.com/entry/2018/11/05/090000)
 
 ニューラルネットフリー画像で検索して使えるの探そう
+
+[pythonでニューラルネットワーク実装](https://qiita.com/ta-ka/items/bcdfd2d9903146c51dcb)
+[TensorFlowチュートリアル - ML初心者のためのMNIST（翻訳）](https://qiita.com/KojiOhki/items/ff6ae04d6cf02f1b6edf)
+
+tensorflowのチュートリアル
+https://www.tensorflow.org/tutorials
+[初めてのTensorFlow - イントロダクションとしての線形回帰](https://qiita.com/TomokIshii/items/f355d8e87d23ee8e0c7a)
+[TensorFlowのチュートリアルを通して、人工知能の原理について学習する](https://qiita.com/jintaka1989/items/3b70b5c5541620536fa2)
+
