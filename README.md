@@ -1,12 +1,20 @@
 # pybigi#24_Tensorflow 
+今回は演習を中心にTensorflowを体験することを主軸に進めます
 
-## 発表資料: presen.key
+
+## 発表資料
+presen.keyです
 
 ## 演習: sample
+
 ### Basic_TF:
+
 ### NN_TF
+
 ### liner_python
+
 ### smallNN
+
 
 ## 参考URL
 [ニューラルネットワークの基礎解説：仕組みや機械学習・ディープラーニングとの関係は](https://www.sbbit.jp/article/cont1/33345)
